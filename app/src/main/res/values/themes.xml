@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CS388Project2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#FF4081</item> <!-- Vibrant Pinkish Red -->
+        <item name="colorPrimaryVariant">#F50057</item> <!-- Darker Red/Pink -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- White text on primary color -->
+
+        <item name="android:colorBackground">#212121</item> <!-- Dark background to keep contrast -->
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- White text color -->
+        <item name="android:textColorSecondary">#FFCDD2</item> <!-- Soft light red for secondary text -->
+
+        <item name="colorSecondary">#FF5722</item> <!-- Red-Orange accent -->
+        <item name="colorOnSecondary">#FFFFFF</item> <!-- White text on secondary color -->
+    </style>
+
+    <style name="Theme.CS388Project2" parent="Base.Theme.CS388Project2" />
+</resources>
