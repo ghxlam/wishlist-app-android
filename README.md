@@ -9,7 +9,7 @@ Wishez is a wishlist app that helps the user keep track of what they want to buy
 - [x] User can delete an item by long pressing on the item
 - [x] User can open an item's URL by clicking on the item
 
-[## Video Walkthrough](https://imgur.com/gallery/wishlist-app-android-demo-Ma8EBab)
+***[Video Walkthrough](https://imgur.com/gallery/wishlist-app-android-demo-Ma8EBab)***
 
 ## License
 
