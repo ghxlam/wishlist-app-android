@@ -1,35 +1,17 @@
-Submitted by: Ghulam Ahmed
+# WISHEZ
 
 Wishez is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: 9 hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
 - [x] **User can add an item to their wishlist**
 - [x] **User can see their list of items based on previously inputted items**
-
-The following **optional** features are implemented:
-
 - [x] Wishlist app is 🎨 **customized** 🎨
 - [x] User can delete an item by long pressing on the item
 - [x] User can open an item's URL by clicking on the item
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/QaDvQCo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
-
-## Notes
-
-The constraints is still just an annoying concept for me for some reason. Also the themes were confusing.
+<img src='https://i.imgur.com/dqLTEwr.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
